@@ -1,6 +1,3 @@
-
----
-
 # 🧠 Aprendizado de Rede Neural
 
 Repositório com material de estudo e implementação de conceitos de **redes neurais artificiais**, criado por *Leonardo Garcia*.
@@ -93,7 +90,7 @@ Se quiser entrar em contato para discussões ou melhorias:
 
 Licença MIT
 
----
+
 
 
 [1]: https://github.com/leonardo-ggomes/aprendizado-rede-neural "GitHub - leonardo-ggomes/aprendizado-rede-neural"
