@@ -19,7 +19,7 @@ Este repositório é voltado a demonstrar o funcionamento e os princípios bási
 
 ---
 
-## 📁 Estrutura do Projeto
+## Estrutura do Projeto
 
 ```
 aprendizado-rede-neural/
@@ -32,7 +32,7 @@ aprendizado-rede-neural/
 
 ---
 
-## 🛠️ Tecnologias
+## Tecnologias
 
 O projeto é majoritariamente em **JavaScript**, com também alguns arquivos em **HTML e CSS** para suporte ou demonstrações visuais. ([GitHub][1])
 
@@ -66,7 +66,7 @@ Esses conceitos são fundamentais para quem está iniciando no mundo de **aprend
 
 ---
 
-## 🤝 Como Contribuir
+## Como Contribuir
 
 Contribuições são bem-vindas! Você pode:
 
@@ -77,7 +77,7 @@ Contribuições são bem-vindas! Você pode:
 
 ---
 
-## 📫 Contato
+## Contato
 
 Se quiser entrar em contato para discussões ou melhorias:
 
@@ -86,7 +86,7 @@ Se quiser entrar em contato para discussões ou melhorias:
 
 ---
 
-## 📜 Licença
+## Licença
 
 Licença MIT
 
