@@ -1,6 +1,6 @@
 # 🧠 Aprendizado de Rede Neural
 
-Repositório com material de estudo e implementação de conceitos de **redes neurais artificiais**, criado por *Leonardo Garcia*.
+Repositório com material de estudo e implementação de conceitos de **redes neurais artificiais**.
 
 Este projeto contém conceitos e exemplos para quem está iniciando em aprendizagem de máquina e redes neurais.
 
